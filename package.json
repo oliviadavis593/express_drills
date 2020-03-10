@@ -1,0 +1,24 @@
+{
+  "name": "expressdrills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app",
+    "debug": "ndb app"
+  },
+  "keywords": [
+    "Express",
+    "Request",
+    "query"
+  ],
+  "author": "Olivia Davis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nbd": "^0.2.2",
+    "nodemon": "^2.0.2"
+  }
+}
