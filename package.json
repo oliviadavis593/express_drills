@@ -16,7 +16,7 @@
   "author": "Olivia Davis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "nbd": "^0.2.2",
     "nodemon": "^2.0.2"
